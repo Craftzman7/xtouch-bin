@@ -1,6 +1,6 @@
 {
   "name": "xtouch",
-  "version": "0.9.202",
+  "version": "0.9.202 LAN",
   "builds": [
     {
       "chipFamily": "ESP32",
